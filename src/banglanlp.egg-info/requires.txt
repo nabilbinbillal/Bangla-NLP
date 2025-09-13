@@ -1,0 +1,4 @@
+regex
+nltk
+torch
+transformers

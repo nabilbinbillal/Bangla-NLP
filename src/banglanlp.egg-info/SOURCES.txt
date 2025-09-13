@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/banglanlp/__init__.py
+src/banglanlp/pos.py
+src/banglanlp/stopwords.py
+src/banglanlp/tokenization.py
+src/banglanlp.egg-info/PKG-INFO
+src/banglanlp.egg-info/SOURCES.txt
+src/banglanlp.egg-info/dependency_links.txt
+src/banglanlp.egg-info/requires.txt
+src/banglanlp.egg-info/top_level.txt
