@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: bangla-nlp
+Version: 0.1
+Summary: Bangla NLP toolkit: tokenization, stopwords, POS, NER, sentiment (offline, editable datasets).
+Home-page: https://github.com/nabilbinbillal/Bangla-NLP
+Author: Nabil Bin Billal
+Author-email: nabilbinbillal@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # BanglaNLP v0.1
 
 **BanglaNLP** is a free, open-source Python toolkit for **Bengali Natural Language Processing (Bangla NLP)**. It provides essential NLP functionalities for Bangla, designed to work **offline with editable datasets**, making it beginner-friendly and easy to extend.
